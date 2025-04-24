@@ -5,5 +5,4 @@ Emulator Icons
 Zoidburg13 - https://github.com/Zoidburg13/ES-DE-System-Icon-Set
 
 Pico-8 Asset
-
 Luiz Felipe Moura - https://www.artstation.com/artwork/RnJWwy
