@@ -2,4 +2,4 @@
 
 | Pop-tarts | 
 | -- |
-| [![preview](https://github.com/user-attachments/assets/33660385-a49c-4097-a3b7-1c5106138f85)](https://github.com/KrutzOtrem/pop-tarts.theme/blob/No-Effect/preview.png) |
+| ![preview](https://github.com/user-attachments/assets/d22508dd-d6f4-4ddb-81b6-8bd7ab5e2bf5) |
