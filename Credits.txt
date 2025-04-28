@@ -1,12 +1,14 @@
-<details> 
-<summary><strong>Pop-Tarts Theme</strong></summary>
-</strong></summary>
-<br>
+Original console assets are designed for the Colorful theme, gathered and made by Viking:
+https://forums.launchbox-app.com/profile/70421-viking/
+Shared on the LaunchBox forums:
+https://forums.launchbox-app.com/files/file/2485-colorful-resources/
 
-<p>Original console assets are designed for the Colorful theme, gathered and made by <a href="https://forums.launchbox-app.com/profile/70421-viking/">Viking</a>, and shared on the <a href="https://forums.launchbox-app.com/files/file/2485-colorful-resources/">LaunchBox forums</a>.</p>
+Emulator icons are the work of Zoidburg13:
+https://github.com/Zoidburg13
+Repository:
+https://github.com/Zoidburg13/ES-DE-System-Icon-Set
 
-<p>Emulator icons are the work of <a href="https://github.com/Zoidburg13">Zoidburg13</a> and can be found in his <a href="https://github.com/Zoidburg13/ES-DE-System-Icon-Set">repository</a>.</p>
-
-<p>The Pico-8 asset was made by <a href="https://www.artstation.com/luizmoura">Luiz Felipe Moura</a> and can be found on <a href="https://www.artstation.com/artwork/RnJWwy">ArtStation</a>.</p>
-
-</details>
+The Pico-8 asset was made by Luiz Felipe Moura:
+https://www.artstation.com/luizmoura
+Artwork:
+https://www.artstation.com/artwork/RnJWwy
