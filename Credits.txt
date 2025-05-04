@@ -12,3 +12,5 @@ The Pico-8 asset was made by Luiz Felipe Moura:
 https://www.artstation.com/luizmoura
 Artwork:
 https://www.artstation.com/artwork/RnJWwy
+
+The font used in this theme is Munro, created by Ten by Twenty. All rights belong to the original creator.
